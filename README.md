@@ -1,0 +1,3 @@
+# automacao
+Automacao com ESP32
+Alguns exemplos para criação de arquivos para automação...
