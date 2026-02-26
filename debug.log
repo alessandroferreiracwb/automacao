@@ -1,0 +1,130 @@
+[2026-02-26 20:22:21] === Nova requisição ===
+[2026-02-26 20:22:21] METHOD: GET
+[2026-02-26 20:22:21] IP: 10.205.1.19
+[2026-02-26 20:22:21] Erro: Método não é POST
+[2026-02-26 20:22:23] === Nova requisição ===
+[2026-02-26 20:22:23] METHOD: GET
+[2026-02-26 20:22:23] IP: 10.205.1.19
+[2026-02-26 20:22:23] Erro: Método não é POST
+[2026-02-26 20:22:26] === Nova requisição ===
+[2026-02-26 20:22:26] METHOD: GET
+[2026-02-26 20:22:26] IP: 10.205.1.19
+[2026-02-26 20:22:26] Erro: Método não é POST
+[2026-02-26 20:22:31] === Nova requisição ===
+[2026-02-26 20:22:31] METHOD: GET
+[2026-02-26 20:22:31] IP: 10.205.1.19
+[2026-02-26 20:22:31] Erro: Método não é POST
+[2026-02-26 20:22:59] === Nova requisição ===
+[2026-02-26 20:22:59] METHOD: GET
+[2026-02-26 20:22:59] IP: 10.205.1.19
+[2026-02-26 20:22:59] Erro: Método não é POST
+[2026-02-26 20:24:53] === Nova requisição ===
+[2026-02-26 20:24:53] METHOD: POST
+[2026-02-26 20:24:53] IP: 10.205.1.68
+[2026-02-26 20:24:53] Input recebido: [{"ts":1772133104,"relay":1,"act":1,"type":0,"ip":"10.205.1.9"},{"ts":1772133109,"relay":2,"act":1,"type":0,"ip":"10.205.1.9"},{"ts":1772133110,"relay":2,"act":0,"type":0,"ip":"10.205.1.9"},{"ts":1772
+[2026-02-26 20:24:53] Erro: Dados invalidos
+[2026-02-26 20:27:04] === Nova requisição ===
+[2026-02-26 20:27:04] METHOD: GET
+[2026-02-26 20:27:04] IP: 10.205.1.9
+[2026-02-26 20:27:04] Erro: Método não é POST
+[2026-02-26 20:31:39] === Nova requisição ===
+[2026-02-26 20:31:39] METHOD: POST
+[2026-02-26 20:31:39] IP: 10.205.1.68
+[2026-02-26 20:31:39] Input recebido: [{"ts":1772134031,"relay":1,"act":1,"type":0,"ip":"10.205.1.9"},{"ts":1772134044,"relay":1,"act":0,"type":0,"ip":"10.205.1.9"},{"ts":1772134047,"relay":2,"act":1,"type":0,"ip":"10.205.1.9"}]
+[2026-02-26 20:31:39] Erro: Dados invalidos
+[2026-02-26 20:31:44] === Nova requisição ===
+[2026-02-26 20:31:44] METHOD: GET
+[2026-02-26 20:31:44] IP: 10.205.1.9
+[2026-02-26 20:31:44] Erro: Método não é POST
+[2026-02-26 20:31:48] === Nova requisição ===
+[2026-02-26 20:31:48] METHOD: GET
+[2026-02-26 20:31:48] IP: 10.205.1.9
+[2026-02-26 20:31:48] Erro: Método não é POST
+[2026-02-26 20:34:21] === Requisição Recebida ===
+[2026-02-26 20:34:21] REQUEST_METHOD: GET
+[2026-02-26 20:34:21] ERRO: Metodo GET
+[2026-02-26 20:34:22] === Requisição Recebida ===
+[2026-02-26 20:34:22] REQUEST_METHOD: GET
+[2026-02-26 20:34:22] ERRO: Metodo GET
+[2026-02-26 20:34:23] === Requisição Recebida ===
+[2026-02-26 20:34:23] REQUEST_METHOD: GET
+[2026-02-26 20:34:23] ERRO: Metodo GET
+[2026-02-26 20:39:35] === Requisição Recebida ===
+[2026-02-26 20:39:35] REQUEST_METHOD: GET
+[2026-02-26 20:39:35] ERRO: Metodo GET
+[2026-02-26 20:41:40] === Requisição Recebida ===
+[2026-02-26 20:41:40] REQUEST_METHOD: GET
+[2026-02-26 20:41:40] ERRO: Metodo GET
+[2026-02-26 20:45:00] === Requisição Recebida ===
+[2026-02-26 20:45:00] REQUEST_METHOD: GET
+[2026-02-26 20:45:00] ERRO: Metodo GET
+[2026-02-26 20:45:42] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:45:42] REQUEST_METHOD: GET
+[2026-02-26 20:45:42] REMOTE_ADDR: 10.205.1.9
+[2026-02-26 20:45:42] CONTENT_TYPE: não definido
+[2026-02-26 20:45:42] ERRO: Método não é POST
+[2026-02-26 20:45:44] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:45:44] REQUEST_METHOD: GET
+[2026-02-26 20:45:44] REMOTE_ADDR: 10.205.1.9
+[2026-02-26 20:45:44] CONTENT_TYPE: não definido
+[2026-02-26 20:45:44] ERRO: Método não é POST
+[2026-02-26 20:46:10] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:46:10] REQUEST_METHOD: GET
+[2026-02-26 20:46:10] REMOTE_ADDR: 10.205.1.9
+[2026-02-26 20:46:10] CONTENT_TYPE: não definido
+[2026-02-26 20:46:10] ERRO: Método não é POST
+[2026-02-26 20:46:33] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:46:33] REQUEST_METHOD: GET
+[2026-02-26 20:46:33] REMOTE_ADDR: 10.205.1.9
+[2026-02-26 20:46:33] CONTENT_TYPE: não definido
+[2026-02-26 20:46:33] ERRO: Método não é POST
+[2026-02-26 20:48:47] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:48:47] REQUEST_METHOD: POST
+[2026-02-26 20:48:47] REMOTE_ADDR: 10.205.1.68
+[2026-02-26 20:48:47] CONTENT_TYPE: application/json
+[2026-02-26 20:48:47] INPUT RAW (385 bytes): [{"ts":1772135064,"relay":1,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135075,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135084,"relay":1,"act":0,"type":0,"ip":"10.205.1.19"},{"ts":1772135095,"relay":2,"act":0,"type":0,"ip":"10.205.1.19"},{"ts":1772135165,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135246,"relay":2,"act":0,"type":0,"ip":"10.205.1.19"}]
+[2026-02-26 20:48:47] JSON DECODIFICADO COM SUCESSO
+[2026-02-26 20:48:47] CHAVES DO ARRAY: 0, 1, 2, 3, 4, 5
+[2026-02-26 20:48:47] ERRO: 'logs' não existe ou não é array
+[2026-02-26 20:48:47] DATA COMPLETA: [{"ts":1772135064,"relay":1,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135075,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135084,"relay":1,"act":0,"type":0,"ip":"10.205.1.19"},{"ts":1772135095,"relay":2,"act":0,"type":0,"ip":"10.205.1.19"},{"ts":1772135165,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135246,"relay":2,"act":0,"type":0,"ip":"10.205.1.19"}]
+[2026-02-26 20:54:56] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:54:56] REQUEST_METHOD: GET
+[2026-02-26 20:54:56] REMOTE_ADDR: 10.205.1.9
+[2026-02-26 20:54:56] CONTENT_TYPE: não definido
+[2026-02-26 20:54:56] ERRO: Método não é POST
+[2026-02-26 20:57:17] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:57:17] REQUEST_METHOD: POST
+[2026-02-26 20:57:17] REMOTE_ADDR: 10.205.1.68
+[2026-02-26 20:57:17] CONTENT_TYPE: application/json
+[2026-02-26 20:57:17] INPUT RAW (201 bytes): {"logs":[{"ts":1772135826,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135829,"relay":1,"act":1,"type":0,"ip":"10.205.1.19"}],"esp_id":"esp32_reles","device_ip":"10.205.1.68","log_count":2}
+[2026-02-26 20:57:17] JSON DECODIFICADO COM SUCESSO
+[2026-02-26 20:57:17] CHAVES DO ARRAY: logs, esp_id, device_ip, log_count
+[2026-02-26 20:57:17] LOGS ENCONTRADOS: 2 registros
+[2026-02-26 20:57:17] CONEXÃO DB OK
+[2026-02-26 20:57:17] ESP_ID: esp32_reles
+[2026-02-26 20:57:17] DEVICE_IP: 10.205.1.68
+[2026-02-26 20:57:17] LOG #0: {"ts":1772135826,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"}
+[2026-02-26 20:57:17] LOG #0 INSERIDO
+[2026-02-26 20:57:17] LOG #1: {"ts":1772135829,"relay":1,"act":1,"type":0,"ip":"10.205.1.19"}
+[2026-02-26 20:57:17] LOG #1 INSERIDO
+[2026-02-26 20:57:17] === SUCESSO: 2 logs inseridos, 0 erros ===
+[2026-02-26 20:58:06] === === === NOVA REQUISIÇÃO === === ===
+[2026-02-26 20:58:06] REQUEST_METHOD: POST
+[2026-02-26 20:58:06] REMOTE_ADDR: 10.205.1.68
+[2026-02-26 20:58:06] CONTENT_TYPE: application/json
+[2026-02-26 20:58:06] INPUT RAW (327 bytes): {"logs":[{"ts":1772135826,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135829,"relay":1,"act":1,"type":0,"ip":"10.205.1.19"},{"ts":1772135880,"relay":2,"act":0,"type":0,"ip":"10.205.1.9"},{"ts":1772135882,"relay":1,"act":0,"type":0,"ip":"10.205.1.9"}],"esp_id":"esp32_reles","device_ip":"10.205.1.68","log_count":4}
+[2026-02-26 20:58:06] JSON DECODIFICADO COM SUCESSO
+[2026-02-26 20:58:06] CHAVES DO ARRAY: logs, esp_id, device_ip, log_count
+[2026-02-26 20:58:06] LOGS ENCONTRADOS: 4 registros
+[2026-02-26 20:58:06] CONEXÃO DB OK
+[2026-02-26 20:58:06] ESP_ID: esp32_reles
+[2026-02-26 20:58:06] DEVICE_IP: 10.205.1.68
+[2026-02-26 20:58:06] LOG #0: {"ts":1772135826,"relay":2,"act":1,"type":0,"ip":"10.205.1.19"}
+[2026-02-26 20:58:06] LOG #0 INSERIDO
+[2026-02-26 20:58:06] LOG #1: {"ts":1772135829,"relay":1,"act":1,"type":0,"ip":"10.205.1.19"}
+[2026-02-26 20:58:06] LOG #1 INSERIDO
+[2026-02-26 20:58:06] LOG #2: {"ts":1772135880,"relay":2,"act":0,"type":0,"ip":"10.205.1.9"}
+[2026-02-26 20:58:06] LOG #2 INSERIDO
+[2026-02-26 20:58:06] LOG #3: {"ts":1772135882,"relay":1,"act":0,"type":0,"ip":"10.205.1.9"}
+[2026-02-26 20:58:06] LOG #3 INSERIDO
+[2026-02-26 20:58:06] === SUCESSO: 4 logs inseridos, 0 erros ===
