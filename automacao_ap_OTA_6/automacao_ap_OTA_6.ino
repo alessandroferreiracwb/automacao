@@ -15,8 +15,10 @@
 #include <HTTPClient.h>
 
 // === CONFIGURAÇÕES GERAIS ===
-const char* DEFAULT_SSID = "NEXTRENTAL_GUEST";
-const char* DEFAULT_PASS = "N3XT@2024";
+//const char* DEFAULT_SSID = "NEXTRENTAL_GUEST";
+//const char* DEFAULT_PASS = "N3XT@2024";
+const char* DEFAULT_SSID = "Alessandro_2G";
+const char* DEFAULT_PASS = "Van@1981";
 const char* AP_SSID = "ESP32-Setup";
 const char* AP_PASS = "12345678";
 
@@ -126,7 +128,7 @@ void saveCredentials(const String& ssid, const String& pass) {
 // === Configurações de Rede ===
 String getESP_IP() {
   prefs.begin("network", true);
-  String ip = prefs.getString("esp_ip", "10.205.1.88");
+  String ip = prefs.getString("esp_ip", "172.16.1.50");
   prefs.end();
   return ip;
 }
@@ -140,7 +142,7 @@ void saveESP_IP(const String& ip) {
 
 String getESP_Gateway() {
   prefs.begin("network", true);
-  String gw = prefs.getString("esp_gateway", "10.205.1.1");
+  String gw = prefs.getString("esp_gateway", "172.16.1.1");
   prefs.end();
   return gw;
 }
@@ -993,3 +995,4 @@ void loop() {
   
   delay(10);
 }
+
